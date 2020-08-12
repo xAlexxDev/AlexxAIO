@@ -3,14 +3,14 @@ A muli purpose tool. This software is meant for educational/ethical usage only. 
 
 Current Version: v4
 
-All features: Randomize Lines
-              Remove Duplicate Lines
-              OpenFileDialog
-              OverWrite Function || Y, N
-              Filter BlackList Domains
-              Filter Duplicate Domains
-              NumericParam Generator
-              Mail:Pass => User:Pass
-              User:Pass => Email:Pass
-              Sort A-Z
-              Sort Z-A
+All features: Randomize Lines,
+              Remove Duplicate Lines,
+              OpenFileDialog,
+              OverWrite Function || Y, N,
+              Filter BlackList Domains,
+              Filter Duplicate Domains,
+              NumericParam Generator,
+              Mail:Pass => User:Pass,
+              User:Pass => Email:Pass,
+              Sort A-Z,
+              Sort Z-A,
