@@ -1,7 +1,8 @@
 # AlexxAIO
 A muli purpose tool. This software is meant for educational/ethical usage only. I, the developer, will not be held responsible for anything you do with this software.
 
-Current Version: v4.0.0, v5.0.0 SOON
+Who helped: ePiC#1337, DinoZoid#0454
+Current Version: v6
 
 All features: Randomize Lines,
               Remove Duplicate Lines,
