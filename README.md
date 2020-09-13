@@ -1,6 +1,8 @@
 # AlexxAIO
 A muli purpose tool. This software is meant for educational/ethical usage only. I, the developer, will not be held responsible for anything you do with this software.
 
+If you would like to donate then send to: 17qDZ8Kx2is2tSW3Rv4nhi4HnBhoPFWugL
+
 Who helped: ePiC#1337, DinoZoid#0454
 
 
